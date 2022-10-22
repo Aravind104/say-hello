@@ -1,4 +1,4 @@
-Dynamically update name
+Hello `your name`
 
 In this project i created the app that we can update your name when you enter your name in the input field
 
